@@ -32,8 +32,3 @@ For detailed information about the available API endpoints and how to use them, 
 We welcome contributions from the community! If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request. Make sure to follow the existing code style and include relevant tests.
 
 Please review our [contribution guidelines](/CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](/LICENSE). You are free to modify and distribute the code as per the terms of the license.
-
