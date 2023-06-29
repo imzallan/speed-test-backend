@@ -1,6 +1,4 @@
-# Project Name
-
-Welcome to the [Project Name] repository! This project serves as the backend for [briefly describe the purpose of the project]. It is built using Node.js and includes [mention the main features and functionalities of the project].
+# Speed Test
 
 ## Table of Contents
 - [Installation](#installation)
